@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yassine Amgarou a.k.a @Gnomedebian
 - 🎓 I have a fundamental license in business management
-- 🏫 I'm on the first year of MBA in a chinese university
 - 👀 I’m interested in data analysis with python
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on 
