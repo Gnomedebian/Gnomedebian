@@ -27,5 +27,5 @@
 
 <details>
  <summary><h3>👨‍💻 AboutMe</h3></summary>
-   I'm an entry-level C language programmer studying software engineering at ALX AFRICA. Passionate about technology, I'm building a strong foundation in programming and eager to explore various aspects of software development. Through practical projects and collaboration with peers, I'm gaining valuable hands-on experience and industry insights. Excited to grow as a software engineer, I aim to contribute to innovative software solutions and pursue internships to further develop my skills and build a successful career in this field.
+   I'm an entry-level software engineering student at alx_africa. Passionate about technology, I'm building a strong foundation in programming and eager to explore various aspects of software development. Through practical projects and collaboration with peers, I'm gaining valuable hands-on experience and industry insights. Excited to grow as a software engineer, I aim to contribute to innovative software solutions and pursue internships to further develop my skills and build a successful career in this field.
    
