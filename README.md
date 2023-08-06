@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Yassine Amgarou a.k.a @Gnomedebian
-- 🎓 I have a fundamental license in business management
-- 👀 I’m interested in data analysis with python
-- 🌱 I’m currently learning python language
-- 💞️ I’m looking to collaborate on 
-- 📫 You can reach me by IG : _yassineamgarou
+![logo](https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif)
+<h1 align="center">👋 Hello Everyone, this is Yassine Amgarou 🍥</h1>
+<h3 align="center">Software Engineer Student at alx_africa se Program</h3>
