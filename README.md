@@ -1,3 +1,4 @@
 ![logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7d8d412e-af59-4469-a798-ed3b2bedde06/demcfch-81ee397c-1fe4-4942-8bb3-179935738000.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdkOGQ0MTJlLWFmNTktNDQ2OS1hNzk4LWVkM2IyYmVkZGUwNlwvZGVtY2ZjaC04MWVlMzk3Yy0xZmU0LTQ5NDItOGJiMy0xNzk5MzU3MzgwMDAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8SNrA-8L-IUS4kbMesmzkhVXqB4Hz2pebaT4E3YnNic)
 <h1 align="center">🍥Itsmeee Gnooome🍥</h1>
-**`Software Engineer Student at alx_africa se Program`**
+
+**`Entry Level Software Engineer at alx_africa se Program`**
