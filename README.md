@@ -6,7 +6,7 @@
 
 ![logo](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
-###🔧 Languages and Tools
+### 🔧 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
@@ -17,7 +17,7 @@
 
 #
 
-###📈 Stats
+### 📈 Stats
 
 ![Gnome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnomedebian&show_icons=true&theme=gruvbox)
 
