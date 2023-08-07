@@ -1,7 +1,5 @@
 <h1 align="center">👋 𝐈𝐭𝐬𝐦𝐞𝐞𝐞_𝐆𝐧𝐨𝐨𝐨𝐦𝐞</h1>
 
-# 𝐘𝐚𝐬𝐬𝐢𝐧𝐞 𝐀𝐦𝐠𝐚𝐫𝐨𝐮
-
 **`Entry Level Software Engineer | alx_africa Student`**
 
 ![logo](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
