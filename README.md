@@ -20,7 +20,7 @@
 
 ### 📈 Stats
 
-![Gnome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnomedebian&show_icons=true&theme=gruvbox)
+![Gnome's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gnomedebian&show_icons=true&theme=transparent)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Gnomedebian&theme=gruvbox&border_radius=4.5) -->
 
